@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <Folder Include="Statics\" />
+    <Folder Include="wwwroot\san_pham\" />
   </ItemGroup>
 
 </Project>
